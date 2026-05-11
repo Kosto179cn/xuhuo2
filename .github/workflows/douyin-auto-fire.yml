@@ -1,5 +1,5 @@
 name: 抖音续火花自动任务
-1
+
 on:
   push:
     paths:
